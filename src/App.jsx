@@ -53,7 +53,7 @@ export default function App() {
     <div className="app-container">
       <header>
         <h1>Chef Dex</h1>
-        <p>Proyecto Final - Catálogo de Recetas Mundiales en React</p>
+        <p> Si te picó el bagre... 🐟 Busca la receta acá 👇 ¡no seas vago! 🥩🇦🇷</p>
         {searchTerm && (
           <p style={{ marginTop: '15px', color: '#f97316', fontSize: '13pt' }}>
             Resultados para la búsqueda: <strong>"{searchTerm}"</strong>
