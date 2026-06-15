@@ -82,7 +82,7 @@ export default function App() {
         <div className="status-message">
           ❌ No se encontraron recetas para: "{searchTerm}".
           <br />
-          <small style={{ fontSize: '11pt', color: '#888' }}>Intenta buscando ingredientes o platos en inglés como "chicken", "pasta", "cake" o "rice".</small>
+          <small style={{ fontSize: '11pt', color: '#888' }}>Intenta buscando ingredientes o platos en inglés como "chicken", "pasta", "cake" o "rice", pero si sos argento tambien esta "locro", "milanesa" o "asado" 🤤.</small>
         </div>
       )}
       
